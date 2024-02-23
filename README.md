@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @adamhau
 - 
-- 👀 I’m interested in working! Any job in tech would be a great first step to further my skills and professional resume. I am hoping to learn new computer languages and concepts to start working on personal projects this coming year.
-- Specific interests of mine in computer science would be: Being creative, computer security, programming, robotics and hardware.
+- 👀 I’m interested in working! Any job in tech would be a great first step to further my skills and professional resume. I hope to learn new computer languages and concepts to start working on personal projects this coming year.
 - 
-- 🌱 I’m currently going into my second year of my Computer Science degree in University. I will be taking an intro C++ course, Digital Computer Fundamentals, Discrete Structures and Calculus.
-- I hope to join my Universities Co-op program to gain employment and work experience.
 - 
-- 💞️ I’m looking to collaborate on video games. I do not have much experience with them but would love to learn!
+- 🌱 I’m currently in my second year of my Computer Science degree learning Java, C++ and Data Structures. This year I have finished my math minor and am now fully devoting my time to studying and learning comp sci.
+- I am enrolled in my university co-op program and am currently searching for my first internship!
+- 
+- 💞️ I’m looking to collaborate on video games. I do not have much experience with them but I would love to learn!
 - 
 - 📫 How to reach me:
 - Email: adamhaugen0@gmail.com
