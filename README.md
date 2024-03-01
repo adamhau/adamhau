@@ -6,7 +6,7 @@
 - 🌱 I’m currently in my second year of my Computer Science degree learning Java, C++ and Data Structures. This year I have finished my math minor and am now fully devoting my time to studying and learning comp sci.
 - I am enrolled in my university co-op program and am currently searching for my first internship!
 - 
-- 💞️ I’m looking to collaborate on video games. I do not have much experience with them but I would love to learn!
+- I’m looking to collaborate on video games. I do not have much experience with them but I would love to learn!
 - 
 - 📫 How to reach me:
 - Email: adamhaugen0@gmail.com
