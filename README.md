@@ -1,15 +1,22 @@
-- 👋 Hi, I’m @adamhau
-- 
-- 👀 I’m interested in working! I am eager to land my first programming co-op internship this coming spring/summer. This past summer I worked as a Co-op student for Cando Rail & Terminals.
-- 
-- 
-- 🌱 I’m currently in my third year of my Computer Science degree. I have finished my math minor and am now fully devoting my time to studying and learning comp sci. I have a strong proficiency in Java and am currently learning C, C++, and Assembly.
-- I have also completed my Data Structures course with straight A's.
-- I am enrolled in my university co-op program and searching for my second internship!
-- 
-- I’m looking to collaborate on video games. I do not have much experience with them but I would love to learn!
-- 
-- 📫 How to reach me:
+Hello! My name is Adam Haugen,
+
+I'm a 4th-year Computer Science and Mathematics student at Brandon University and a Software Developer (Co-op) at Rimmer Tech Partners.
+Currently, I work on enterprise applications using C#, XAML, and SQL within a .NET (WPF, MVVM) architecture. I work closely with end users to design and build features that support real-world production operations.
+
+#### My Tech Stack
+*  **Languages:**  
+  C#, Java, C, Python  
+  
+*  **Web:**  
+  XAML, HTML, CSS  
+  
+*  **Databases:**  
+  SQL, SSMS, BigQuery, Firebase Realtime Database  
+  
+*  **Tools & Concepts:**  
+  Git, Docker, CRUD applications
+
+📫 How to reach me:
 - Email: adamhaugen0@gmail.com
 - LinkedIn: https://www.linkedin.com/in/adam-haugen-3351821a7/
 - Discord: adam3mil
